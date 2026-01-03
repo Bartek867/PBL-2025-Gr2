@@ -2,7 +2,7 @@ import sqlite3
 import time
 import random
 
-# Nazwa Twojej bazy danych
+# Nazwa DB
 DB_NAME = 'maintenance.db'
 
 def run_simulator():
